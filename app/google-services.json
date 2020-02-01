@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1053431085382",
+    "firebase_url": "https://venadostest.firebaseio.com",
+    "project_id": "venadostest",
+    "storage_bucket": "venadostest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053431085382:android:2a7c5881275695df118d47",
+        "android_client_info": {
+          "package_name": "com.example.venadostest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053431085382-2tuejhjuovvu3388gm3lnt0vpfvr65hh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.venadostest",
+            "certificate_hash": "a8dd3417c428ff360eb9e77adaee4cfd3c293d8f"
+          }
+        },
+        {
+          "client_id": "1053431085382-sh0h6nrt5gflgiqcv9m19a1u0gbf9kg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9QnW6TbzBckfRMEubs0JAdHLr8yirdsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053431085382-sh0h6nrt5gflgiqcv9m19a1u0gbf9kg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
